@@ -1,9 +1,7 @@
 # Hi, I'm Rafay 👋
 
 🎓 Computer Science student at RMIT University
-
 🏦 Currently building industry experience at MUFG within their financial technologies, secure systems, and client-focused teams
-
 🔐 Love building projects involving cryptography, financial modelling, secure backend systems, and quantitative analysis, etc. 
 
 🚀 Interested in:
