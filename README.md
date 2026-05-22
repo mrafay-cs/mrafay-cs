@@ -6,7 +6,7 @@
 
 🏦 Gaining valuable knowledge across financial technologies, secure systems, and client-focused technology environments 
 
-🔐 Building projects involving cryptography, consensus mechanisms, secure backend systems, and cloud security concepts
+🔐 Building projects involving cryptography, stock portfolio monitoring, secure backend systems, and financial technologies
 
 💻 Currently working with:
 - Python
