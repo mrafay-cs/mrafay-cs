@@ -2,9 +2,9 @@
 
 🎓 Computer Science student at RMIT University
 
-🏦 Currently building industry experience at MUFG within their financial technologies, secure systems, and client-focused teams
+🏦 Currently building industry experience at MUFG across financial technologies and secure systems teams
 
-🔐 Love building projects involving cryptography, financial modelling, secure backend systems, and quantitative analysis, etc. 
+🔐 Building projects involving cryptography, financial modelling, secure backend systems, and distributed validation systems 
 
 🚀 Interested in:
 - Cybersecurity & fraud monitoring
